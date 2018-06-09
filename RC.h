@@ -1,7 +1,7 @@
 // Spec of RC data
 
-#define CHANNELS 8
-#define IN_PIN 2 
+#define CHANNELS 6
+#define IN_PIN 13 
 
 typedef struct 
 {
